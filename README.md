@@ -1,6 +1,8 @@
+<a href="https://bit.ly/2WJJ3he">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'✋🏻hello%20world!'&#125&#59&fontSize=50&animation=blinking" />
+</a>
 
 <p align="middle">      
-  <h2>yeewon Jung</h2>
   <p>
   <img src="https://img.shields.io/badge/language-html-red.svg?style=flat-square"/>
   <img src="https://img.shields.io/badge/language-css-green.svg?style=flat-square"/>
@@ -11,7 +13,12 @@
 </p>
 </p>
 
+<p>
+  <a href="https://github.com/Yeewon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeewon&show_icons=true" />
+  </a>
 
-
-![yeewon's github stats](https://github-readme-stats.vercel.app/api?username=Yeewon&show_icons=true)
-
+  <a href="https://github.com/Yeewon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeewon&layout=compact" />
+  </a>
+</p>

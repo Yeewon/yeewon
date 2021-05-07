@@ -2,15 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'✋🏻hello%20world!'&#125&#59&fontSize=50&animation=blinking" />
 </a>
 
-<p align="middle">      
-  <p>
-  <img src="https://img.shields.io/badge/language-html-red.svg?style=flat-square"/>
-  <img src="https://img.shields.io/badge/language-css-green.svg?style=flat-square"/>
-  <img src="https://img.shields.io/badge/language-js-yellow.svg?style=flat-square"/>
-  <img src="https://img.shields.io/badge/language-java-orange.svg?style=flat-square"/>
-  <img src="https://img.shields.io/badge/language-python-blue.svg?style=flat-square"/>
-  <img src="https://img.shields.io/badge/language-sql-yellowgreen.svg?style=flat-square"/>
-</p>
 </p>
 
 <p>

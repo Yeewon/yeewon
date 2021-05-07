@@ -1,4 +1,4 @@
-<a href="https://bit.ly/2WJJ3he">
+<a href="https://www.notion.so/yeewon/Yeewon-Jung-4ae93f77b2a74aa0a29ed38df9aa1885">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'✋🏻hello%20world!'&#125&#59&fontSize=50&animation=blinking" />
 </a>
 

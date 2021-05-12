@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  
 </p>
 
-<br><br>
+<br>
 <h3 align="center"> ❤️ me ❤️ </h3>
 <p align="center">
   <a href="https://www.notion.so/yeewon/Yeewon-Jung-4ae93f77b2a74aa0a29ed38df9aa1885"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
